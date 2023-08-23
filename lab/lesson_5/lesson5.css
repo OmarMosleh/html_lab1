@@ -1,0 +1,110 @@
+.tahoma{
+    font-family: tahoma,sans-serif;
+}
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+.arial .sale{
+    color:red;
+    font-style: italic;
+}
+.verdana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.verdana .vhead{
+    font-size: large;
+    font-weight: bold;
+}
+.verdana .vlight{
+    font-size: medium;
+    font-weight: 200;
+    color:grey;
+}
+.verdana button{
+    background-color: green;
+    color:white;
+    border:none;
+    padding:8px 8px;
+    border-radius: 5px;
+}
+.sarial{
+    font-family: Arial, Helvetica, sans-serif;
+    width:400px;
+    height:300px;
+}
+.sarial .head{
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+.sarial .learn{
+    color:rgb(13, 133, 225);
+    text-align: center;
+}
+p.maino{
+    text-align: center;
+}
+.mac{
+    height:400px;
+    width:400px;
+}
+.mac p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.mac .new{
+    font-size: small;
+    color :red;
+}
+.mac .head{
+    font-size: large;
+}
+.mac .hedo{
+    font-size: larger;
+    font-weight:bold;
+}
+.mac .price{
+    color:grey;
+    font:200;
+    font-size: small;
+    font-weight: lighter;
+}
+.mac .button{
+    display: flex;
+    background-color: rgb(19, 141, 241);
+    margin-left: 179px;
+    text-align: center;
+    padding: 5px 5px;
+    border: none;
+    border-radius: 5px;
+}
+ .maco p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .maco .price {
+    font-size: 32px;
+    margin-bottom: 5px;
+  }
+
+  .currency {
+    font-size: 16px;
+    color: rgb(100, 100, 100);
+  }
+
+  .change {
+    color: rgb(24, 128, 56);
+    margin-bottom: 8px;
+  }
+
+  .after-hours {
+    color: rgb(100, 100, 100);
+  }
+
+  .after-hours-change {
+    color: rgb(235, 39, 39);
+  }

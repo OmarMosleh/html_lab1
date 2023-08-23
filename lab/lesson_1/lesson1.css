@@ -1,0 +1,11 @@
+*{
+    margin-left:0;
+    padding:0;
+}
+.task {
+    margin-top: 10px;
+}
+.amazon {
+    display : block;
+    margin-top: 30px;
+}

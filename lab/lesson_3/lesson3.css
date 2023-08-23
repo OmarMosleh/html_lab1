@@ -1,0 +1,155 @@
+.uber{
+    display :block;
+    background-color:black;
+    color:white;
+    height :30 px ;
+    margin:10px 10px ;
+    padding :10px;  
+    transition:0.5s  
+}
+.uber:hover{
+opacity: 70%;
+cursor:pointer;
+}
+.amazon{
+    display :block;
+    background-color:rgba(255,216,20);
+    font-size:15px;
+    font-weight: 500;
+    color:black;
+    width :102px ;
+    border-radius:4px ;
+    border-color:transparent;
+    margin:10px 10px ;
+    padding :10px; 
+    transition:0.5s  
+}
+.amazon:hover{
+    opacity: 50%;
+    cursor:pointer;
+    }
+
+.github{
+    display :block;
+    background-color:rgba(46,146,79);
+    color:white;
+    font-size:15;
+    height :30 px ;
+    border-radius:5px;
+    border-color:transparent;
+    margin:10px 10px ;
+    padding :10px;  
+    transition:0.5s  
+}
+.github:hover{
+    opacity: 50%;
+    cursor:pointer;
+    }
+.bootstrap{
+    display :inline-block;
+    background-color:rgba(121,82,179);
+    color:white;
+    border-radius:4px;
+    border-color:transparent;
+    width :105px;
+    margin:10px 10px ;
+    padding :10px;   
+    transition:0.5s 
+}
+.bootstrap:hover{
+    opacity: 50%;
+    cursor:pointer;
+    }
+.bootstrap2{
+    display :inline-block;
+    background-color:white;
+    color:rgba(108,117,125);
+    border-color:rgba(108,117,125);
+    border-width: 1px;
+    border-radius:4px;
+    width :105px;
+    margin:10px 10px ;
+    padding :10px;   
+    transition:0.5s 
+}
+.bootstrap2:hover{
+    opacity: 50%;
+    cursor:pointer;
+    background-color:rgba(108,117,125);
+    color:white;
+    }
+.linkedin{
+    display :inline-block;
+    background-color:rgba(10,102,194);
+    color:white;
+    border-color:transparent;
+    border-radius:22px;
+    width :190px;
+    margin:10px 10px ;
+    padding :10px;  
+    transition:0.5s 
+}
+.linkedin:hover{
+    opacity: 50%;
+    cursor:pointer;
+    }
+.linkedin2{
+    display :inline-block;
+    background-color:white;
+    color:rgba(10,102,194);
+    border-color:rgba(10,102,194);
+    border-width: 1px;
+    border-radius:20px;
+    width :80px;
+    margin:10px 10px ;
+    padding :10px;   
+    transition:0.5s 
+}
+.linkedin2:hover{
+    opacity: 50%;
+    cursor:pointer;
+    background-color:rgba(10,102,194);
+    color:white;
+    }
+.amazon1{
+    display :inline-block;
+    background-color:rgba(255,216,20);
+    font-size:15px;
+    font-weight: 500;
+    color:black;
+    width :102px ;
+    border-radius:4px ;
+    border-color:transparent;
+    margin:5px 0px ;
+    padding :10px; 
+    transition:0.5s   
+} 
+.amazon1:hover{
+    opacity: 50%;
+    cursor:pointer;
+    }   
+.amazon2{
+    display :inline-block;
+    background-color:rgba(255,164,28);
+    font-size:15px;
+    font-weight: 500;
+    color:black;
+    width :102px ;
+    border-radius:4px ;
+    border-color:transparent;
+    margin: 5px 5px ;
+    padding :10px;  
+    transition:0.5s  
+
+}
+.amazon2:hover{
+    opacity: 70%;
+    cursor:pointer;
+    }
+    .amazon2:focus{
+        opacity: 30%;
+        cursor:pointer;
+    }   
+a:hover{
+    color:brown
+} 

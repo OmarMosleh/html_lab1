@@ -1,0 +1,85 @@
+
+.name{
+    display:block;
+    border-radius: 4px;
+    color:gray;
+    border-width:1px;
+    padding:2px 2px;
+    height:20px;
+}
+.survey {
+    display:inline-block;
+}
+.google{
+    width:500px;
+    margin-top:20px;
+}
+.google img{
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+}
+.searchgoogle{
+    margin-left: 20%;
+    margin-top: 10px;
+    width: 634px;
+    height: 28px;
+    border-radius: 20px;
+    border-width: 1px;
+    padding-left: 10px;
+    border-color: gray;
+}
+.challenge{
+    display:grid;
+    grid-template-columns: repeat(2,200px);
+    margin-top: 20px;
+    margin-left:200px;
+    row-gap: 5px;
+    column-gap: 2px;
+}
+.mail{
+    grid-column: 1/ span 2;
+}
+.twitter{
+    grid-column: 1/ span 2;
+    background-color: #2596be;
+    border-radius: 6px;
+    height: 27px;
+    border: none;
+}
+.uber{
+    display:grid;
+    grid-template-columns: repeat(2,200px);
+    margin-top: 20px;
+    margin-left:200px;
+    row-gap: 5px;
+    column-gap: 2px;
+}
+.uber p{
+    grid-column: 1/span 2;
+    height: 12px;
+    text-align: center;
+    font-size: 31px;
+}
+.pickup{
+    grid-column:1/2 span;
+}
+.destination{
+    grid-column:1/2 span;
+}
+.request{
+    width:60%;
+    height:30px;
+    color:white;
+    background-color: black;
+
+}
+.schdule{
+    width: 60%;
+    height: 30px;
+    color: white;
+    background-color: black;
+    margin-left: -75px;
+}

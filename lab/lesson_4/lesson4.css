@@ -1,0 +1,101 @@
+.youtube{
+    background-color:red;
+    color:white;
+    margin:10px 10px ;
+    padding-left:10px; 
+    padding-right:10px; 
+    padding-top: 7px;
+    padding-bottom: 7px;
+    transition:0.5s ;
+    border:none; 
+    
+}
+.youtube:hover{
+opacity: 70%;
+cursor:pointer;
+}
+.join{
+    background-color:white;
+    color:rgb(57, 57, 192);
+    margin:10px 10px ;
+    padding-left:10px; 
+    padding-right:10px; 
+    padding-top: 7px;
+    padding-bottom: 7px;
+    transition:0.5s ;
+    border-color:rgb(57, 57, 192); 
+    border-radius:5px;
+    border-width:1px;
+    
+}
+.join:hover{
+opacity: 70%;
+cursor:pointer;
+}
+.twitter{
+    background-color:rgb(86, 86, 241);
+    color:white;
+    margin:10px 10px ;
+    padding-left:14px; 
+    padding-right:14px; 
+    padding-top: 7px;
+    padding-bottom: 7px;
+    transition:0.5s ;
+    border:none; 
+    border-radius:15px; 
+    
+}
+.twitter:hover{
+opacity: 70%;
+cursor:pointer;
+}
+.paging span{
+    text-decoration: underline;
+    color:blue;
+}
+.stretch{
+    margin-right:75%;
+    height:300px;
+}
+.stretch p{
+    background-color: green;
+    width:100px;
+}
+.stretch p:hover{
+    background-color: green;
+    width:150px;
+    height:150px;
+}
+.click{
+height:200px;
+}
+.click p{
+    background-color: green;
+    box-shadow:5px 5px 20px grey;
+    width:100px;
+}
+.click p:hover{
+    margin-left:3px;
+    margin-top:3px;
+    box-shadow:none;
+}
+.buttons span{
+    background-color:green;
+    padding: 10px 10px;
+    margin-left:10px;
+}
+.buttons span:hover{
+    background-color:green;
+    padding: 15px 15px;
+    margin-left:15px;
+    margin-bottom:5px;
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+

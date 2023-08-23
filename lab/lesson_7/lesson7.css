@@ -1,0 +1,82 @@
+img{
+    width:200px;
+}
+.first{
+    border-radius: 10px;
+}
+.second{
+    height :150px;
+    width :150px;
+    object-fit:cover;
+}
+.third{
+    height :150px;
+    width:150px;
+    border-radius: 50% ;
+    object-fit :cover;
+}
+.search{
+    border-radius: 4px;
+    color:gray;
+    border-width:1px;
+    padding:2px 2px;
+    height:20px;
+}
+.google{
+    width:250px;
+    padding-left:15px;
+    margin-top:20px;
+    border-radius: 20px;
+    color:gray;
+    border-width:1px;
+    height:20px;
+    border:none;
+    box-shadow: 1px 1px 1px grey;
+}
+label {
+    margin-top: 10px;
+    display: block;
+    color :gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+.email{
+    border-color:gray;
+    border-radius: 5px;
+    border-width:1px;
+    width:295px;
+}
+p{
+    color:gray;
+    font-size:small;
+}
+button{
+    background-color:blue;
+    color:white;
+    padding-right: 115px;
+    padding-left: 115px;
+    border:none;
+    border-radius:20px ;
+}
+.last{
+    margin-top: 25px;
+}
+.last .third{
+    width:35px;
+    height:35px;
+    vertical-align:middle;
+    border-radius: 50%;
+}
+.face{
+    vertical-align:middle;
+    border:none;
+    color:gray;
+}
+.twitter{
+    background-color:rgb(8, 147, 234);
+    color:white;
+    border:none;
+    padding: 2px 10px;
+    border-radius:20px ;
+    vertical-align: middle;
+}

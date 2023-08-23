@@ -1,0 +1,138 @@
+.red{
+    background-color: red;
+    height:100px;
+    width:100px;
+}
+.green{
+    margin-top:10px;
+    background-color: green;
+    height:100px;
+    width:100px;
+    border-radius:50%;
+}
+.poll{
+    margin-top:10px;
+    width:300px;
+    height:300px;
+    border-color: black;
+    border-style: solid;
+    padding-left: 5px;
+}
+.youtube{
+    margin-top:10px;
+    width:500px;
+    height:200px;
+    background-color: rgb(72, 71, 71);
+    padding-left: 5px;
+}
+.firstp{
+    padding-top: 10px;
+    color:white;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.secondp{
+    padding-top: 10px;
+    color:lightgrey;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.last{
+    margin-top:10px;
+    box-shadow: 0px 1px 1px gray;
+    padding: 2px 2px;
+    width: 286px;
+}
+.last .third{
+    width:35px;
+    height:35px;
+    vertical-align:middle;
+    border-radius: 50%;
+}
+.face{
+    vertical-align:middle;
+    border:none;
+    color:gray;
+}
+.twitter{
+    background-color:rgb(8, 147, 234);
+    color:white;
+    border:none;
+    padding: 2px 10px;
+    border-radius:20px ;
+    vertical-align: middle;
+} 
+.card{
+    height: 196px;
+    width: 156px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 6px rgba(0,0,0,0.3);
+    padding: 2px 2px;
+    display:inline-block;
+}
+.card .pp{
+    width:155px;
+}
+.card .head{
+    width:200px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size:large;
+    color:black;
+    margin-top: -2px;
+
+}
+.card .tail{
+    width:200px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:grey;
+    margin-top: -14px;
+    font-size: small;
+}
+.add{
+    background-color:rgb(8, 147, 234);
+    color:white;
+    border:none;
+    padding: 6px 10px;
+    border-radius:5px;
+} 
+.google{
+    width:500px;
+    margin-top:20px;
+}
+.google img{
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+}
+.searchgoogle{
+    margin-left: 20%;
+    margin-top: 10px;
+    width: 634px;
+    height: 28px;
+    border-radius: 20px;
+    border-width: 1px;
+    padding-left: 10px;
+    border-color: gray;
+}
+.gbut{
+    display: inline;
+    margin-top: 16px;
+    margin-left: 288px;
+    border: none;
+    color: black;
+    background-color: #8080805c;
+    height: 30px;
+}
+.gbutt{
+    display: inline;
+    margin-top: 16px;
+    margin-left: 20px;
+    border: none;
+    color: black;
+    background-color: #8080805c;
+    height: 30px;
+}
